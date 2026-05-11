@@ -324,7 +324,7 @@ Answer these in a markdown cell:
 
 ---
 
-## Part 11 — Baseline Forecast 1: Naive Forecast
+## Part 10 — Baseline Forecast 1: Naive Forecast
 
 A naive forecast predicts that every future value will equal the last observed training value.
 
@@ -366,7 +366,7 @@ Answer in a markdown cell:
 
 ---
 
-## Part 12 — Baseline Forecast 2: 7-Day Average Forecast
+## Part 11 — Baseline Forecast 2: 7-Day Average Forecast
 
 A 7-day average forecast uses the average of the final week of training data and repeats it across the test period.
 
@@ -408,7 +408,7 @@ Answer in a markdown cell:
 
 ---
 
-## Part 13 — Baseline Forecast 3: Seasonal Weekly Naive Forecast
+## Part 12 — Baseline Forecast 3: Seasonal Weekly Naive Forecast
 
 Because this is daily data, demand may follow a weekly pattern.
 
@@ -456,7 +456,7 @@ Answer in a markdown cell:
 
 ---
 
-## Part 14 — Compare Baseline Forecasts
+## Part 13 — Compare Baseline Forecasts
 
 ### Task
 
@@ -497,7 +497,7 @@ Answer these in a markdown cell:
 
 ---
 
-## Part 15 — Evaluate Forecast Accuracy
+## Part 14 — Evaluate Forecast Accuracy
 
 Use MAE and RMSE to compare the baseline forecasts.
 
@@ -548,7 +548,7 @@ Answer these in a markdown cell:
 
 ---
 
-## Part 16 — Forecast Error Analysis
+## Part 15 — Forecast Error Analysis
 
 Forecast errors can show whether a model is consistently too high or too low.
 
